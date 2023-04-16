@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": "*PRABATH-MD*",
+          "botName": "*Urahara kuiske*",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : ".",
           "pic1": "https://i.ibb.co/7YGn5qS/20230305-135924.jpg",
@@ -36,22 +36,22 @@
           "demote": "Uhh,Admin Role Taken back",
           "antlink": "Link Detected.\n*Good Bye Sir*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by *~ PRABATH-MD-WHATSAPP-BOT~*",
-          "mention": " Please mention any user Sir",
+          "mention": " ارجوك اعمل منشن لأي شخص ",
           "title": "*PRABATH-MD* ",
           "footer": "ᴘʀᴀʙᴀᴛʜ-ᴍᴅ ⦁ ᴍᴀᴅᴇ ʙʏ ᴘʀᴀʙᴀᴛʜ\nʀᴇʟᴇᴀsᴇᴅ ⦁ 𝟸𝟶𝟸𝟹/𝟶𝟷/𝟶𝟸",
-          "by": "*PRABATH-MD-WHATSAPP-BOT* ",
+          "by": "*اوراهارا كيسكي * ",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
-          "success": "*Successful* ✅",
+          "success": "*تم بنجاح 🥳* ✅",
           "dot": "Did you mean *help?*",
           "couple_male": "*I dont want to die alone,I want a female yaar*",
           "couple_female": "*I dont want to die alone,I want a male yaar*",
           "admin": "*THIS OWNER CMD* ⛔",
-          "botAdmin": "*Give Me A Admin*👨‍💻❗",
+          "botAdmin": "*هات ادمن*👨‍💻❗",
           "owner": "THIS OWNER CMD ⛔",
-          "group": "*This Feature Is Only For Groups* ⛔",
+          "group": "*هذا الأمر خاص بالقروبات 😔* ⛔",
           "private": "*THIS OWNER CMD* ⛔",
           "bot": "*THIS OWNER CMD* ⛔",
-          "wait": "*Please Wait* 🔄" 
+          "wait": "*ارجوك انتظر 🙂🙆🏻‍♂️* 🔄" 
       },
       "error": {
           "text": "*Uhh,Got an Error*"
