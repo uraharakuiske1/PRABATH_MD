@@ -1,8 +1,8 @@
 class TicTacToe {
   constructor(playerX = "x", playerO = "o") {
-    this.playerX = playerX;
-    this.playerO = playerO;
-    this._currentTurn = false;
+    this.playerX = لاعبX;
+    this.playerO = لاعبO;
+    this._currentTurn = خطأ ❌;
     this._x = 0;
     this._o = 0;
     this.turns = 0;
@@ -39,7 +39,7 @@ class TicTacToe {
   /**
    * @param player `0` is `X`, `1` is `O`
    *
-   * - `-3` `Game Ended`
+   * - `-3` `اللعبة انتهت 🥳`
    * - `-2` `Invalid`
    * - `-1` `Invalid Position`
    * - ` 0` `Position Occupied`
@@ -85,7 +85,7 @@ class TicTacToe {
   get winner() {
     let x = TicTacToe.check(this._x);
     let o = TicTacToe.check(this._o);
-    return x ? this.playerX : o ? this.playerO : false;
+    return x ? هذا اللاعبX : o ? هذا اللاعبO : false;
   }
 }
 
