@@ -1,5 +1,5 @@
 {
-  "__JSON__": true,
+  "__JSON__": صحيح,
   "AUTHOR": "urahara kuiske",
   "LANGUAGE": "english",
   "LANGCODE": "en",
@@ -51,7 +51,7 @@
           "group": "*هذا الأمر خاص بالقروبات 😔* ⛔",
           "private": "*THIS OWNER CMD* ⛔",
           "bot": "*THIS OWNER CMD* ⛔",
-          "wait": "*ارجوك انتظر 🙂🙆🏻‍♂️* 🔄" 
+          "wait": "*ارجوك انتظر. 🙂🙆🏻‍♂️* 🔄" 
       },
       "error": {
           "text": "*Uhh,Got an Error*"
