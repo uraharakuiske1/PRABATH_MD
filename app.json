@@ -1,10 +1,10 @@
 {
 
-  "name": "PRABATH-MD",
+  "name": "Urahara kuiske",
 
   "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "logo": "https://telegra.ph/file/5e06f1ccaf02573c985d2.jpg",
 
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
 
@@ -16,9 +16,9 @@
 
   "OWNER_NAME": {
 
-  "description": "BOT ට එන්න ඕන නම දෙන්න ",
+  "description": "BOT Urahara kuiske ",
 
-      "value": "👨‍💻 PRABATH-MD-WA-BOT 👨‍💻"
+      "value": "👨‍💻 Urahara kuiske 👨‍💻"
 
   },
 
@@ -34,7 +34,7 @@
 
     "description": "alive මැසෙජ් එක මෙතනට දාන්න",
 
-     "value": "i am alive now 🙋‍♂️"
+     "value": "مرحبا انا على قيد الحياة 🙋‍♂️"
 
     },
   
@@ -124,15 +124,15 @@
 
     "description": "මෙය වෙනස් නොකරන්න බොට් සෑදීමෙන් පසුව මෙය වෙනස් කල හැක ",
 
-       "value": "  *Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th",
+       "value": "  *منور القروب الافضل يا أسطورة 😂,* @user \n*هلاااا 😂* @gname \n*عدد الاعضاء 🔽* : @count th",
 
-       "required" :false
+       "required" : true 
 
   },
 
   "MONGODB_URI": {
 
-    "description": "MONGODB_URI එක මෙහි යොදන්න දන්නෙ නැත්නම් මෙය බලන්න https://youtu.be/C4feDuE-vrM "
+    "description": " "
 
   },
 
@@ -156,9 +156,9 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "Urahara kuiske ✅",
 
-     "required": false 
+     "required": true 
 
   }
 
